@@ -1,0 +1,128 @@
+
+.text-box{
+	padding-right:30px;
+}
+
+.container-image{
+	padding-left:200px;
+}
+
+.h4{
+	padding-left:100px;
+}
+
+
+
+.container-bg{
+	background-color: #8CA9D6;
+	background-size: cover;
+	width:auto;
+	height:4888px;
+}
+
+.craigslist{
+	width:auto;
+	height:720px;
+}
+
+.description{
+	text-align: center;
+	background-color:#7474BF;
+	width: auto;
+	height:200px;
+	font-size: 18px;
+	color:white;
+
+
+}
+
+.research{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+.background{
+	background-color: white;
+	margin-left:200px ;
+	width:999px;
+	height:2000px;
+}
+
+
+.product{
+	margin-left:30px;
+	text-align: center;
+	color:white;
+}
+
+
+.container-button{
+	
+	position:absolute; 
+	margin-left:1234px;
+	margin-top: 70px;
+	width:auto;
+	text-align: left;
+
+}
+
+
+.container-foot{
+	background-color:#7474BF;
+	width: auto;
+	height:200px;
+}
+
+.description-cruise{
+	text-align: center;
+}
+
+.final-product{
+	padding-top:70px;
+	text-align: center;
+	background-color:#9DB386;
+	width: auto;
+	height:200px;
+	font-size: 18px;
+	color:white;
+}
+
+.can-shots{
+	padding-top:70px;
+}
+
+
+.hero-shots{
+	padding-top:500px;
+}
+
+.life-shot{
+	background-color: #F39D6B;
+	width:auto;
+	height:500px;
+}
+
+
+.box-shot{
+	text-align: center;
+	background-color: #7FCDC5;
+	padding-top:300px;
+
+}
+
+.container-foot-cruise{
+	background-color:#9DB386;
+	width: auto;
+	height:200px;
+}
+
+
+
+
+
+
+
+
+
